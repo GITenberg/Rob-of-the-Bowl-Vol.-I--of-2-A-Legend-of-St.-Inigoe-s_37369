@@ -1,0 +1,31 @@
+_repo: Rob-of-the-Bowl-Vol.-I--of-2-A-Legend-of-St.-Inigoe-s_37369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kennedy, John Pendleton
+    aliases:
+    - Littleton, Mark
+    - Kennedy, J. P. (John Pendleton)
+    - Ambrose, Paul
+    birthdate: 1795
+    deathdate: 1870
+    gutenberg_agent_id: '36430'
+    url: http://www.gutenberg.org/2009/agents/36430
+    wikipedia: http://en.wikipedia.org/wiki/John_P._Kennedy
+description: ''
+gutenberg_issued: '2011-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maryland -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcc 'PS'
+title: 'Rob of the Bowl: A Legend of St. Inigoe''s. Vol. 1 (of 2)'
+url: http://www.gutenberg.org/ebooks/37369
